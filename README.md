@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caturhidayat
-- 👀 I’m interested in Full-Stack-Developer
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in {JavaScript, back-End}
+- 🌱 I’m currently learning NodeJS
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫  caturhidayat00@gmail.com
 
